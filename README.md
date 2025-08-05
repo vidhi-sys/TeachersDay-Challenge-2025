@@ -1,6 +1,6 @@
 
 # Teachers' Day Challenge 2025 🚀  
-### By [Vidhi Udasi] | VIT Bhopal  
+### By Vidhi Udasi | VIT Bhopal  
 **Track:** [Beginner/Advanced]  
 **Goal:** Solve coding problems daily for 43 days (July 25 - Sept 5).  
  
